@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='practical2_package',
       version='0.1',
       description='Package created for COMP30830 practical 2',
-      url='http://github.com/storborg/funniest',
+      url='https://github.com/fosterian95/COMP30830_package',
       author='fosterian95',
       author_email='fosterian95@gmail.com',
       license='MIT',
