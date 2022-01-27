@@ -14,4 +14,5 @@ setup(name='practical2_package',
                   'sys_info_comp30830=__info__:main'
             ]
       },
+      install_requires=["psutil"],
       zip_safe=False)
